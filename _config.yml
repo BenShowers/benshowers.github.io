@@ -37,31 +37,30 @@ roles:
    end: March 2016
    employer: Cabinet Office
    description: Led the delivery of multiple, complex digital/web projects across government. Working to deliver specific products or transformations as part of a multi-disciplinary, highly skilled agile team. Delivery of projects at pace while ensuring users (both internal and members of the public) are always at the heart of any change or new service.
- - title: Associate Manager
-   start: 2005
-   end: 2012
-   employer: Accenture
-   description: A range of functional and technical roles, primarily working on client sites in Financial Services.
+ - title: Head of Digital Scholarship and Libraries
+   start: 2013
+   end: 2014
+   employer: Jisc
+   description: Provided senior leadership and strategy development within Jisc Futures directorate on developments in the digital scholarly process and digital content provision. Employing imaginative and creative approaches to exploit developments in the application of technology, user behaviour and analytics for the benefit of UK universities. 
 
 #Education is required
 education:
- - level: Bachelor of Science (B.Sc.)
-   date: 2003
-   subject: Artificial Intelligence and Computer Science
-   school: University of Birmingham
+ - level: MA
+   date: 2008
+   subject: Information Studies
+   school: University College London
+ - level: MA (Distinction)
+   date: 2001
+   subject: Philosophy
+   school: University of Sussex
+ - level: BA (Hons) 2:1
+   date: 1996-1999
+   subject: Philosophy 
+   school: University of Hertfordshire
+   
 
 #This section is optional (as is the image link below)
-coursera:
-   profileurl: https://www.coursera.org/user/i/c6362b4056f755a04bef6a791a62102b
-   courses:
-    - title: Functional Programming Principles in Scala
-      link: https://www.coursera.org/course/progfun
-      optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/progfun/small-icon.hover.png
-      date: September 16, 2013
-    - title: Algorithms Design and Analysis, Part 1
-      link: https://www.coursera.org/course/progfun
-      optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/algo/small-icon.hover.png
-      date: April 28, 2014
+
 
 #List of interesting Github repo/projects to include - optional
 
@@ -73,5 +72,4 @@ coursera:
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
-An experienced, delivery focused digital leader who is a passionate advocate for the power of digital and has 8 years’ experience successfully delivering large-scale, digital programmes and projects. Has led agile, cross discipline teams to develop products from initial exploration through to delivery and service. Has proven skills and experience in effective stakeholder management and communications, managing third party suppliers, project and programme management and digital strategy. 
 
