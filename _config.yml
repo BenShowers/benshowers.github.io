@@ -24,6 +24,9 @@ skills:
  - Digital Programme Management
  - Agile
  - User Research
+ - Digital Infrastructure
+ - CRM 
+ 
 
 #Blogfeed is optional - including this will add JS to call the feed and populate blog list
 blogfeed: https://benshowers.com
@@ -56,17 +59,9 @@ education:
    date: 2001
    subject: Philosophy
    school: University of Sussex
- - level: BA (Hons) 2:1
-   date: 1996-1999
-   subject: Philosophy 
-   school: University of Hertfordshire
    
 
 #This section is optional (as is the image link below)
-
-
-#List of interesting Github repo/projects to include - optional
-
 
 #Stackoverflow flair is optional
 
@@ -74,5 +69,7 @@ education:
 
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
-additionalinfo: |
+additionalinfo: 
+An experienced, user-focused digital leader who is a passionate advocate for the power of digital and has successfully delivered large-scale, digital programmes and projects. Has led agile, cross discipline teams to develop products in government, higher education and non-profit sectors, from initial exploration through to delivery and service. Has proven skills and experience in effective stakeholder management and communications, managing third party suppliers, product and digital strategy, design and development. 
+
 
